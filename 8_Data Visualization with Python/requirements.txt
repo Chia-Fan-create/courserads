@@ -1,0 +1,11 @@
+ipykernel
+nbformat
+plotly
+pandas
+numpy
+matplotlib
+folium
+seaborn
+wordcloud
+pywaffle
+urllib3<2
